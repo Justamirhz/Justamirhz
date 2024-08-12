@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Amir
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python
-
+stupid generalist
 
 <!---
 Justamirhz/Justamirhz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
